@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KeyboardUsage", "KeyboardUsage\KeyboardUsage.pyproj", "{B17D66BF-39AF-4432-A113-7D997FA7E6C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17D66BF-39AF-4432-A113-7D997FA7E6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17D66BF-39AF-4432-A113-7D997FA7E6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F41060-FE6A-4C9E-967E-4ED6486572B3}
+	EndGlobalSection
+EndGlobal
